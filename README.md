@@ -1,3 +1,4 @@
+DO NOT MERGE THIS
 *This repository contains the source of the Tampermonkey extension up to version 2.9.*
 *All newer versions are distributed under a proprietary license.*
 
