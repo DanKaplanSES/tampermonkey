@@ -1,4 +1,5 @@
 /**
+ * DO NOT MERGE THIS
  * @filename background.js
  * @author Jan Biniok <jan@biniok.net>
  * @licence GPL v3
